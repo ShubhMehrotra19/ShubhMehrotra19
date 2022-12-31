@@ -1,6 +1,7 @@
-Hi there 👋, 
-#**Shubh Mehrotra**
-## Development and content writing 
+ 
+# **Shubh Mehrotra**
+
+### Development and content writing 
 ![Development and content writing ](https://media.licdn.com/dms/image/D4D16AQH2xCuxoYIJKg/profile-displaybackgroundimage-shrink_350_1400/0/1672129185297?e=1677715200&v=beta&t=rZ3lcL5QeYxDWHZPSMp4FXmrmj9wAlKpU49WKWEJKcM)
 
 👋Hi! I'm Shubh (he/him), a Computer Science And Engineering student at VIT Bhopal, graduating in 2026.
@@ -19,7 +20,7 @@ Hi there 👋,
 🙂Some things I love:
 Listening to music 🎧 | Playing basketball 🏀 | Learning New Skills 👨‍💻| Reading Books | Coding
 
-###Skills:
+## Skills:
 *HTML
 *JAVA
 *CSS
