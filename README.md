@@ -21,10 +21,7 @@
 Listening to music 🎧 | Playing basketball 🏀 | Learning New Skills 👨‍💻| Reading Books | Coding
 
 ## Skills:
-*HTML
-*JAVA
-*CSS
-*Copywriting
+HTML || JAVA || CSS || Copywriting
  
 
 
