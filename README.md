@@ -1,30 +1,23 @@
 ![Development and content writing ](https://media.licdn.com/dms/image/D4D16AQH2xCuxoYIJKg/profile-displaybackgroundimage-shrink_350_1400/0/1672129185297?e=1677715200&v=beta&t=rZ3lcL5QeYxDWHZPSMp4FXmrmj9wAlKpU49WKWEJKcM)
 
 
-# **Shubh Mehrotra** 
-#### Development and content writing
-
-### About me:
-👋Hi! I'm Shubh (he/him), a Computer Science And Engineering student at VIT Bhopal, graduating in 2026.
+## Hi there 👋, my name is **Shubh Mehrotra**
+#### Development and content writing 
 
 
-🎓Until graduation?
-• I'm learning the fundamentals of Computer Science and Engineering and its applications to create creative and precise programs.
-• I am also learning Front-end Web Development (as a skill) to express my creativity and programming skills through projects.
- I am also learning content creation because I like expressing my thoughts through posts and love adding my creativity to it.
+### Skills: JAVA || HTML || CSS || Copywriting
 
-🔭My aspirations:
-• I want to drive change and make the World a better place. I want to make technology more accessible and sustainable- economically and socially.
-• I want to be able to grow my communication and leadership skills to make myself an ideal leader and avid speaker for any upcoming projects. 
-• I want to keep learning and growing my interpersonal and technical skills to be the most successful version of myself.
-
-🙂Some things I love:
-Listening to music 🎧 | Playing basketball 🏀 | Learning New Skills 👨‍💻| Reading Books | Coding
-
-## Skills:
-HTML || JAVA || CSS || Copywriting
- 
+- 🌱 I’m currently learning Front-End Web Development and JAVA 
+- 👯 I’m looking to collaborate on Frontend and JAVA projects 
+- 📫 How to reach me: shubhmehrotra365@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I also create content on LinkedIn. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beardedcoder2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubh-mehrotra-sep2003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bearded_coder19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/beardedcoder2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shubh-mehrotra192003.carrd.co/)  
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beardedcoder2003)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beardedcoder2003&show_icons=true)   
