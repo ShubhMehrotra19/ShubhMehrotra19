@@ -20,7 +20,7 @@ Listening to music 🎧 | Playing basketball 🏀 | Learning New Skills 👨‍�
 
 Skills: JAVA || HTML || CSS || Copywriting
 
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
