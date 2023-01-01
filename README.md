@@ -1,24 +1,38 @@
 ![Development and content writing ](https://media.licdn.com/dms/image/D4D16AQH2xCuxoYIJKg/profile-displaybackgroundimage-shrink_350_1400/0/1672129185297?e=1677715200&v=beta&t=rZ3lcL5QeYxDWHZPSMp4FXmrmj9wAlKpU49WKWEJKcM)
 
+<h1 align="center">Hi 👋, I'm Shubh Mehrotra</h1>
+<h3 align="center">A developer and LinkedIn Content Creator</h3>
 
-## Hi there 👋, my name is **Shubh Mehrotra**  
-#### Development and content writing 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/110672923/210170964-20db84da-dfdb-4699-aa7e-f40802d97cef.png">
+
+- 🌱 I’m currently learning **JavaScript and Digital Marketing**
+
+- 💬 Ask me about **JAVA, Web Development and Content Writing**
+
+- 📫 How to reach me **mehrotrashubh365@gmail.com**
+
+- 📄 Know about my experiences [https://resume.io/r/e7OYnSQwg](https://resume.io/r/e7OYnSQwg)
+
+- ⚡ Fun fact **I am 19yrs old and a College Freshman. I will graduate in 2026.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/beardedcoder2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="beardedcoder2003" height="30" width="40" /></a>
+<a href="https://twitter.com/bearded_coder19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bearded_coder19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubh-mehrotra-sep2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh-mehrotra-sep2003" height="30" width="40" /></a>
+<a href="https://instagram.com/bearded_coder_._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bearded_coder_._._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mehrotrashubh3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mehrotrashubh3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mehrotrashubh365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehrotrashubh365" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bearded_coder2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bearded_coder2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubh_mehrotra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubh_mehrotra2003" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
 
-### Skills: JAVA || HTML || CSS || Copywriting
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmehrotra19&show_icons=true&locale=en&layout=compact" alt="shubhmehrotra19" /></p>
 
-- 🌱 I’m currently learning Front-End Web Development and JAVA 
-- 👯 I’m looking to collaborate on Frontend and JAVA projects 
-- 📫 How to reach me: shubhmehrotra365@gmail.com 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I also create content on LinkedIn. 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhmehrotra19&show_icons=true&locale=en" alt="shubhmehrotra19" /></p>
 
-
-#### here are my socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beardedcoder2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubh-mehrotra-sep2003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bearded_coder19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/beardedcoder2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shubh-mehrotra192003.carrd.co/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beardedcoder2003)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beardedcoder2003&show_icons=true)   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmehrotra19&" alt="shubhmehrotra19" /></p>
