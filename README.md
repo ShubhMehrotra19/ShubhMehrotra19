@@ -24,21 +24,23 @@ My journey in web development revolves around mastering a versatile set of tools
 <br/>
 
 <p align="left">
-  Did you know... I Open Source my designs in the Figma Community 🤭: 
+ <p style="font-weight: '600'"> Did you know... I Open Source my designs in the Figma Community 🤭:</p> 
   <br/>
-<a href="figma.com/@shubhmehrotra" target="blank">Check out my Figma!</a> <p>🙇🏽‍♂️</p>
-<a href="www.linkedin.com/in/shubhmehrotra19" target="blank">Connect with me on Linkedin!</a> <p>💙</p>
+<a href="figma.com/@shubhmehrotra" target="blank">Check out my Figma! 🙇🏽‍♂️</a> <br/>
+<a href="www.linkedin.com/in/shubhmehrotra19" target="blank">Connect with me on Linkedin! 💙</a> 
 </p>
 
 ---
 
-### Fun Fact:
-    👉🏽 All the Web Projects that I will be/ have already posted on this are also available on the GitHub page of my alter-ego 😆.
-       (You see... I am someone who likes a clean and tidy readme"
-    
-    👉🏽 All the Projects that I post have great Documentation. I spend ample time with ChatGPT and other AI tools to enhance the experience of my project viewers! 
-    
-    👉🏽 All of the Web Projects posted here have been Designed + Developed Solely by me! I provide the screenshots of the Figma File and the complete process in the Project Readme!
+### Fun Facts About Me 🎉
+
+- 👉🏽 All the web projects showcased here are also available on my alter-ego's GitHub page. (Because let's admit it, I appreciate a clean and tidy readme! 😄)
+
+- 👉🏽 Each project I share comes with meticulous documentation. I invest time with ChatGPT and other AI tools to enhance the viewing experience.
+
+- 👉🏽 Every web project featured on this profile is a product of my sole design and development efforts. I pridefully present the Figma file screenshots and the comprehensive process in each project readme!
+
 <br />
+
 
 Thank you for visiting my page! I have just started designing it too!
