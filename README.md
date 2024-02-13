@@ -35,6 +35,7 @@ My journey in web development revolves around mastering a versatile set of tools
 ### Fun Facts About Me 🎉
 
 - 👉🏽 All the web projects showcased here are also available on my alter-ego's GitHub page. (Because let's admit it, I appreciate a clean and tidy readme! 😄)
+     - connect with him too 😁: https://github.com/Stoic-Coder2003
 
 - 👉🏽 Each project I share comes with meticulous documentation. I invest time with ChatGPT and other AI tools to enhance the viewing experience.
 
