@@ -17,9 +17,11 @@ Let's build something extraordinary together! 🚀✨
 ### 💻 A Little about me:
 My journey in web development revolves around mastering a versatile set of tools. I excel in crafting captivating web experiences using:
 
+- `NextJS`: Javascript Framework to create dynamic interfaces.
 - `ReactJS`: Building interactive and dynamic interfaces.
 - `Tailwind CSS`: Crafting sleek and responsive designs.
 - `JavaScript`: Fueling the functionality and interactivity.
+- `TypeScript`: Type Safety of props and data rendered in Next and React Apps.
 - `Bash Scripting`: Automating tasks and enhancing efficiency.
 <br/>
 
