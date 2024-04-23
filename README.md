@@ -4,7 +4,7 @@
 
 ## Hey There! 👋, I'm Shubh Mehrotra.
 
-🔗Visit my Website : https://shubh-portfolio-delta.vercel.app/
+
 🌟 Passionate about Stoic ideologies, I'm on a journey of self-improvement and resilience. 🚀
 
 💻 As a dedicated member of your Web Team, I bring a unique blend of creative UI design and robust development skills. From crafting eye-catching interfaces to bringing them to life with precision and flair, I love turning ideas into impactful digital experiences. ✨
@@ -12,7 +12,9 @@
 🌈 Join me in the pursuit of excellence, where code meets creativity and Stoic principles shape our journey to becoming better every day! 🌿
 
 Let's build something extraordinary together! 🚀✨
-
+</br>
+</br>
+🔗Visit my Website : https://shubh-portfolio-delta.vercel.app/ </br>
 <br/>
 
 ### 💻 A Little about me:
