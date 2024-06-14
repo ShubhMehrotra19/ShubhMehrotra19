@@ -25,6 +25,8 @@ My journey in web development revolves around mastering a versatile set of tools
 - `Tailwind CSS`: Crafting sleek and responsive designs.
 - `JavaScript`: Fueling the functionality and interactivity.
 - `TypeScript`: Type Safety of props and data rendered in Next and React Apps.
+- `GSAP`: Animation library for great UI of the website.
+- `Lenis-Scroll`: Scrolling Animation for smooth scrolling.
 - `Bash Scripting`: Automating tasks and enhancing efficiency.
 <br/>
 
