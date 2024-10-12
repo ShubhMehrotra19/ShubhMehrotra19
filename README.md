@@ -26,7 +26,11 @@ My journey in web development revolves around mastering a versatile set of tools
 - `JavaScript`: Fueling the functionality and interactivity.
 - `TypeScript`: Type Safety of props and data rendered in Next and React Apps.
 - `GSAP`: Animation library for great UI of the website.
-- `Lenis-Scroll`: Scrolling Animation for smooth scrolling.
+- `Locomotive-Scroll`: Scrolling Animation for smooth scrolling.
+- `Lenis`: Animation Library for Awesome UI.
+- `Golang`: Fast and Scalable Backend and CLI Services.
+- `Springboot`: Java-based backend service.
+- `Node and Express JS`: Part of the MERN Stack toolkit.
 - `Bash Scripting`: Automating tasks and enhancing efficiency.
 <br/>
 
