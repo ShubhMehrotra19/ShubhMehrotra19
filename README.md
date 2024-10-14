@@ -34,6 +34,13 @@ My journey in web development revolves around mastering a versatile set of tools
 - `Bash Scripting`: Automating tasks and enhancing efficiency.
 <br/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github, git, appwrite, css, html, js, react, redux, tailwind, ts, nextjs, express, nodejs, npm, go " /> <br/>
+   <img src="https://skillicons.dev/icons?i=flutter, dart, arduino, bash " />
+  </a>
+</p>
+
 <p align="left">
  <p style="font-weight: '600'"> Did you know... I `Open Source` my designs in the Figma Community 🤭:</p> 
   <br/>
