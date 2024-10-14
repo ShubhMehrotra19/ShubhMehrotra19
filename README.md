@@ -36,8 +36,8 @@ My journey in web development revolves around mastering a versatile set of tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github, git, appwrite, css, html, js, react, redux, tailwind, ts, nextjs, express, nodejs, npm, go " /> <br/>
-   <img src="https://skillicons.dev/icons?i=flutter, dart, arduino, bash " />
+    <img src="https://skillicons.dev/icons?i=github,git,appwrite,css,html,js,react,redux,tailwind,ts,nextjs,express,nodejs,npm,go " /> <br/>
+   <img src="https://skillicons.dev/icons?i=flutter,dart,arduino,bash " />
   </a>
 </p>
 
